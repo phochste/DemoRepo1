@@ -1,0 +1,2 @@
+drwxr-xr-x  0 hochsten staff       0 Jun 15 10:37 RUG01-001031539/
+-rwxr-xr-x  0 hochsten staff 1999360 Jun 15 10:37 RUG01-001031539/volledigwerkblaren.xls
